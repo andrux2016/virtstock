@@ -1,0 +1,21 @@
+Please note the following additions/corrections to be done in the system.
+
+The title of the project is PSG Stock Exchange.
+Include an option for the users to delete proposals made by the user himself/herself.
+User should also know the number of transactions he/she has made so far.
+***The rate of the stock proposed to buy/sell should be between the maximum buying rate and minimum selling rate for the company and should be within 5% of the current rate.
+Refer the attached file for the 30 company names and initial rates.
+Refer the attached file (sheet 2) for list of the 10+2 team names.
+All teams except Foreign Investors are given an Initial cash of Rs.10,00,000/- each and foreign investors are given Rs.1,00,00,000/- each.
+***Try to implement a type of notification which will inform the users whether their proposal was accepted by someone.
+Note the following
+If user A wishes to buy a stock, and he accepts the selling proposal set by user B,
+if A does not have enough cash, transaction does not take place and proposal made by B still remains
+else if B does not have enough of the stock, then transaction does not take place and the proposal made by B is deleted
+If user A wishes to sell a stock, and he accepts the buying proposal set by user B,
+if A does not have enough shares, transaction does not take place and proposal made by B still remains
+else if B does not have enough of cash, then transaction does not take place and the proposal made by B is deleted
+      If you need any more clarifications, call me any time.
+
+From,
+M.Kasiviswanathan
